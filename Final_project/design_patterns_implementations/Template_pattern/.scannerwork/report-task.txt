@@ -1,0 +1,6 @@
+projectKey=template_implementation
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=template_implementation
+ceTaskId=AYe6TeQVLxMFJQ-4mmkC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYe6TeQVLxMFJQ-4mmkC

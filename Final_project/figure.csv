@@ -1,0 +1,12 @@
+type_0,type_1,type_3
+template,9,0,0
+state,5,0,0
+singleton,13,0,2
+observer,2,0,2
+iterator,5,0,3
+factory,1,0,0
+visitor,3,0,1
+adapter,2,0,0
+bridge,3,1,0
+builder,15,2,6
+chain of responsability,0,0,1
